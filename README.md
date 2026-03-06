@@ -1,5 +1,8 @@
 # Bank-Segment-model-Scoring
 Modélisation prédictive pour identifier les clients les plus susceptibles d’évoluer vers un segment bancaire plus favorable.
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2.2-orange.svg)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3.3.5-green.svg)
